@@ -1,13 +1,12 @@
-h1{
+body{
     font-family: 'Helvetica';
+}
+h1{
     color: #3D3D3D;
     background-color: #E1EDF2;
 }
 h2{
     border-bottom: 2px solid black;
-}
-p{
-    font-family: Helvetica;
 }
 figure{
     text-align: center;
