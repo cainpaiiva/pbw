@@ -3,10 +3,11 @@ body{
     max-width: 940px; 
     margin: 0 auto;
 }
-h1{
+h1, .titulo{
     color: #3D3D3D;
     background-color: #E1EDF2;
     padding: 10px;
+    border-bottom: 0;
 }
 h2{
     border-bottom: 2px solid black;
