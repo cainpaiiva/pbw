@@ -1,3 +1,8 @@
+header {
+    background-color: #2D5377; /* Fundo azul-escuro */
+    color: #FFF; /* Texto branco */
+    padding: 10px; /* Espaçamento interno */
+}
 body{
     font-family: Helvetica, sans-serif, Arial;
     max-width: 940px; 
